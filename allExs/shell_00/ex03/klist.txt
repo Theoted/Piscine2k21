@@ -1,0 +1,5 @@
+Credentials cache: API:F9FED131-89EB-40C2-95F1-5267C7BDE9DC
+        Principal: tdeville@42LYON.FR
+
+  Issued                Expires             Flags    Principal
+Jul  6 11:55:27 2021  Jul  7 11:55:27 2021  FPIA   krbtgt/42LYON.FR@42LYON.FR
